@@ -1,4 +1,4 @@
-# Projeto-01-No-Name
+# SSGG - Sistemas e Soluções para Gerenciamento Geral
 
 Nossa empresa vende softwares para gestão de comércios por meio de licenças e assinaturas. Com os programas feitos com um padrão, são flexíveis para as diferentes empresas, adaptando conforme o necessário.
 
