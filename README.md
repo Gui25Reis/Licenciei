@@ -1,6 +1,6 @@
-# SSGG - Sistemas e Soluções para Gerenciamento Geral
+# Licenciei
 
-Nossa empresa vende softwares para gestão de comércios por meio de licenças e assinaturas. Com os programas feitos com um padrão, são flexíveis para as diferentes empresas, adaptando conforme o necessário.
+Uma empresa com foco em venda de licenças de softwares. Temos nossas licenças mas também se você tem alguma aplicação sua que queira divulgar, você pode xriar uma conta empresarial e postar sobre seu software. Garantimos a segurança e confidensialidade dos códigos!
 
 
-Atende tanto as empresas grandes quanto as microempresas que estão começando. Tendo vários tipos de assinaturas, o gestor pode escolher a que melhor se encaixa e quais softwares desejar, não necessariamente todos, apesar deles também formarem um conjunto.
+Venha conhecer, www.licenciei.com !
