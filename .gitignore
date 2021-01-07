@@ -1,0 +1,14 @@
+### Tirando arquivos antigos
+Arquivos/_casos-de-uso/_outras-versoes/*
+
+Arquivos/_cenario-de-negocios/_cadastro-geral/outras-versoes/*
+Arquivos/_cenario-de-negocios/_empresa-att-produto/_outras-versoes/*
+Arquivos/_cenario-de-negocios/_empresa-res-produto/outras-versoes/*
+Arquivos/_cenario-de-negocios/_usuario-att-licenca/outras-versoes/*
+Arquivos/_cenario-de-negocios/_usuario-compra/outras-versoes/*
+Arquivos/_cenario-de-negocios/outros/*
+
+Arquivos/_diagramas-de-classe/outras-versoes/*
+
+### Arquivos não usados mais
+Arquivos/outros/*
