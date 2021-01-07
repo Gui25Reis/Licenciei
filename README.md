@@ -11,7 +11,7 @@ Todo o trabalho feito se encontra na [wiki](https://github.com/Gui25Reis/Licenci
 Esse projeto é licenciado por [MIT Licence](https://github.com/Gui25Reis/Licenciei/blob/master/LICENSE)
 
 # Autores
-[Aqui](https://github.com/Gui25Reis/Licenciei/wiki/Equipe) tem um mini-resumo nosso.
+[Aqui](https://github.com/Gui25Reis/Licenciei/wiki/Equipe) tem um mini-resumo sobre nós.
 <table>
     <tr>
         <td align="center">
